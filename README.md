@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Summary
-**What it does:** This automated report highlights youth print titles with high demand (a minimum 2:1 hold-to-item ratio) and those with holds but zero holdable copies. The ratio calculation only includes actively holdable items.
+**What it does:** This automated report highlights youth print titles with high demand (a minimum 2:1 hold-to-item ratio) and those with holds but zero circulating copies. The ratio calculation only includes actively holdable and circulating items.
 
 **Impact:** Delivers a weekly automated report of in-demand titles to help the Collection Development team quickly respond to customer demand and easily assess and optimize inventory levels.
 
@@ -17,8 +17,9 @@
 
 <img width="1468" height="936" alt="High-Ratio-Youth" src="https://github.com/user-attachments/assets/4d9da211-6c90-4e22-8eae-ecf709549812" />
 
-Beyond identifying youth print titles with a 2:1 hold-to-item ratio or holds on titles zero holdable copies, the report streamlines decision-making by including:
+Beyond identifying youth print titles with a 2:1 hold-to-item ratio and holds on titles with zero circulating copies, the report is designed to streamline purchasing decisions by providing key information, including:
 
+- Showing holdable and non-holdable copy totals separately to clarify purchasing needs for standard and Lucky Day collections.
 - Total frozen holds: Tracks outstanding demand that is currently paused.
 - Pending orders: Shows how many orders have already been placed and are awaiting fulfillment.
 - Publication year: Provides immediate context on the age and relevance of the material.
